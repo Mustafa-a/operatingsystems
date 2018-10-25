@@ -27,7 +27,7 @@ Interrupts
 Hardware Interrupts - PC Architecture
 -------------------------------------
 
-.. figure:: scheduling/pc_architecture.*
+.. figure:: scheduling/pc_architecture.png
 	:align: center
 	:height: 500px
 	:alt: PC Architecture
